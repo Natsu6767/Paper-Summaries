@@ -6,6 +6,6 @@
   - *Irina Higgins, Loic Matthey, Arka Pal, Christopher Burgess, Xavier Glorot, Matthew Botvinick, Shakir Mohamed, Alexander Lerchner*. **ICLR 2017**
 - Visual Dialog. [[Paper](https://arxiv.org/abs/1611.08669)] [[Summary](Summaries/Visual%20Dialog.md)]
   - *Abhishek Das, Satwik Kottur, Khushi Gupta, Avi Singh, Deshraj Yadav, José M. F. Moura, Devi Parikh, Dhruv Batra.* **CVPR 2017**
-- InfoVAE: Information Maximizing Variational Autoencoders. [[Paper](https://arxiv.org/abs/1706.02262)] [[Summary](Summaries/InfoVAE-Information%20Maximizing%20Variational%20Autoencoders)]
+- InfoVAE: Information Maximizing Variational Autoencoders. [[Paper](https://arxiv.org/abs/1706.02262)] [[Summary](Summaries/InfoVAE-Information%20Maximizing%20Variational%20Autoencoders.md)]
   - *Shengjia Zhao, Jiaming Song, Stefano Ermon.* **arXiv 2017**
 
