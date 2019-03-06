@@ -6,6 +6,8 @@
   - *Emilien Dupont.* **NIPS 2018**
 - Disentangling by Factorising. [[Paper](https://arxiv.org/abs/1802.05983)] [[Summary](Summaries/Disentangling%20by%20Factorising.md)]
   - *Hyunjik Kim, Andriy Mnih.* **ICML 2018**
+- DeepLab Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7913730)] [[Summary](Summaries/DeepLab%20Semantic%20Image%20Segmentation%20with%20Deep%20Convolutional%20Nets,%20Atrous%20Convolution,%20and%20Fully%20Connected%20CRFs.md)]
+  - *Liang-Chieh Chen, George Papandreou, Iasonas Kokkinos, Kevin Murphy, Alan L. Yuille.* **IEEE Transactions on Pattern Analysis and Machine Intelligence 2018**
 
 #### 2017
 
