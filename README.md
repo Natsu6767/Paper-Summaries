@@ -17,4 +17,6 @@
   - *Abhishek Das, Satwik Kottur, Khushi Gupta, Avi Singh, Deshraj Yadav, José M. F. Moura, Devi Parikh, Dhruv Batra.* **CVPR 2017**
 - InfoVAE: Information Maximizing Variational Autoencoders. [[Paper](https://arxiv.org/abs/1706.02262)] [[Summary](Summaries/InfoVAE-Information%20Maximizing%20Variational%20Autoencoders.md)]
   - *Shengjia Zhao, Jiaming Song, Stefano Ermon.* **arXiv 2017**
+- Rethinking Atrous Convolution for Semantic Image Segmentation. [[Paper](https://arxiv.org/abs/1706.05587)] [[Summary](Summaries/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)]
+  - *Liang-Chieh Chen, George Papandreou, Florian Schroff, Hartwig Adam.* **arXiv 2017**
 
