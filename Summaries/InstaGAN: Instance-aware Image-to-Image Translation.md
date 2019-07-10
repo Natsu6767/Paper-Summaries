@@ -1,6 +1,6 @@
 # InstaGAN: Instance-aware Image-to-Image Translation
 
-*Sangwoo Mo, Minsu Cho, Jinwoo Shin*
+*Sangwoo Mo, Minsu Cho, Jinwoo Shin.* **ICLR 2019**
 
 ## Summary
 
