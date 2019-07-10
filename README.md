@@ -1,5 +1,10 @@
 # Summaries of papers in deep learning.
 
+#### 2019
+
+- InstaGAN: Instance-aware Image-to-Image Translation. [[Paper](https://arxiv.org/abs/1812.10889)] [[Summary](Summaries/InstaGAN:%20Instance-aware%20Image-to-Image%20Translation.md)]
+  - *Sangwoo Mo, Minsu Cho, Jinwoo Shin.* **ICLR 2019**
+
 #### 2018
 
 - Learning Disentangled Joint Continuous and Discrete Representations. [[Paper](https://arxiv.org/abs/1804.00104)] [[Summary](Summaries/Learning%20Disentangled%20Joint%20Continuous%20and%20Discrete%20Representations.md)]
