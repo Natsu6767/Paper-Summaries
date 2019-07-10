@@ -19,4 +19,6 @@
   - *Shengjia Zhao, Jiaming Song, Stefano Ermon.* **arXiv 2017**
 - Rethinking Atrous Convolution for Semantic Image Segmentation. [[Paper](https://arxiv.org/abs/1706.05587)] [[Summary](Summaries/Rethinking%20Atrous%20Convolution%20for%20Semantic%20Image%20Segmentation.md)]
   - *Liang-Chieh Chen, George Papandreou, Florian Schroff, Hartwig Adam.* **arXiv 2017**
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. [[Paper](https://arxiv.org/abs/1703.10593)] [[Summary](Summaries/Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks.md)]
+  - *Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros.* **ICCV 2017**
 
