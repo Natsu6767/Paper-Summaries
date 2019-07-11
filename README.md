@@ -15,6 +15,8 @@
   - *Liang-Chieh Chen, George Papandreou, Iasonas Kokkinos, Kevin Murphy, Alan L. Yuille*. **IEEE Transactions on Pattern Analysis and Machine Intelligence 2018**
 - Video-to-Video Synthesis. [[Paper](https://arxiv.org/abs/1808.06601)] [[Summary](Summaries/Video-to-Video%20Synthesis.md)]
   - *Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bryan Catanzaro*. **NeurIPS 2018**
+- High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. [[Paper](https://arxiv.org/abs/1711.11585)] [[Summary](Summaries/High-Resolution%20Image%20Synthesis%20and%20Semantic%20Manipulation%20with%20Conditional%20GANs.md)]
+  - *Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro*. **CVPR 2018**
 
 #### 2017
 
