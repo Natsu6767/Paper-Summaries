@@ -30,4 +30,5 @@
   - *Liang-Chieh Chen, George Papandreou, Florian Schroff, Hartwig Adam*. **arXiv 2017**
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. [[Paper](https://arxiv.org/abs/1703.10593)] [[Summary](Summaries/Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks.md)]
   - *Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros*. **ICCV 2017**
-
+- Image-to-Image Translation with Conditional Adversarial Networks. [[Paper](https://arxiv.org/abs/1611.07004)] [[Summary](Summaries/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks.md)]
+  - *Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros*. **CVPR 2017**
