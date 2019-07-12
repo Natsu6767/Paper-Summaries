@@ -32,3 +32,5 @@
   - *Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros*. **ICCV 2017**
 - Image-to-Image Translation with Conditional Adversarial Networks. [[Paper](https://arxiv.org/abs/1611.07004)] [[Summary](Summaries/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks.md)]
   - *Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros*. **CVPR 2017**
+- Least Squares Generative Adversarial Networks. [[Paper](https://arxiv.org/abs/1611.04076)] [[Summary](Summaries/Least%20Squares%20Generative%20Adversarial%20Networks.md)]
+  - *Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang, Stephen Paul Smolley*. **ICCV 2017** 
